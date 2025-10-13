@@ -1,7 +1,7 @@
 inhibit-stiridva
 
 # Nadaljnja navodila
-42
+
 1. Sedaj imaš lokalno kopijo repozitorija.
    Za igro moramo nastaviti nekaj dodatnih nastavitev:
    `./hook-install.sh`
